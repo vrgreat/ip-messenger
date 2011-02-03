@@ -1,4 +1,4 @@
-#New Features And Bug Fixes For Next Release
+New Features And Bug Fixes For Next Release
 
 = Introduction =
 
