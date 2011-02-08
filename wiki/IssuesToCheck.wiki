@@ -1,0 +1,19 @@
+#summary Issues to be tested.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+ * System tray hide and display. when main window closed it have to hide and stay in the tray.
+ * when double clicked on the tray icon mainGui have to be displayed again.
+ * chat window title should be user name.
+ * in the chat window before the messages instead of host name, user name should be displayed.
+ * a connection should be established when double clicked on any node or leaf of the node.
+ * when chat window is minimized and when there is a new message chat window should request attention.
+ * when not minimized as well it should request attention.
+ * when one person closes the chat window it have to display the message that the other person closed the connection.
+ * able to exit from the system tray icon.
+ * menubar and menu items are working.
