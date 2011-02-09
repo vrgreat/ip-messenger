@@ -17,3 +17,5 @@ Add your content here.
  * when one person closes the chat window it have to display the message that the other person closed the connection.
  * able to exit from the system tray icon.
  * menubar and menu items are working.
+ * see when one person closed the window and the other tried to chat the window is getting displayed again.
+ * see whether threads are gracefully getting closed when both closed the chat window.
