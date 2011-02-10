@@ -18,6 +18,8 @@ Add your content here.
  * when not minimized as well it should request attention.---done
 
  * when one person closes the chat window it have to display the message that the other person closed the connection.---- done.
+ * see when one person closed the window and the other tried to chat the window is getting displayed again.---done.
+ * see whether threads are gracefully getting closed when both closed the chat window.---- done.
  
 ________________________________________________________________
 
@@ -30,5 +32,5 @@ ________________________________________________________________
  
  
  
- * see when one person closed the window and the other tried to chat the window is getting displayed again.
- * see whether threads are gracefully getting closed when both closed the chat window.
+ 
+ 
