@@ -11,17 +11,23 @@ Add your content here.
  * when double clicked on the tray icon mainGui have to be displayed again.----done.
  * able to exit from the system tray icon.----done
  * menubar and menu items are working.----done.
+ * chat window title should be user name.-----done.
+ * in the chat window before the messages instead of host name, user name should be displayed.  -----done.
+  * a connection should be established when double clicked on any node or leaf of the node.----done.
+  * when chat window is minimized and when there is a new message chat window should request attention.----done.
+ * when not minimized as well it should request attention.---done
+
+ * when one person closes the chat window it have to display the message that the other person closed the connection.---- done.
+ 
+________________________________________________________________
 
 
 
+ 
+ 
 
 
- * chat window title should be user name.
- * in the chat window before the messages instead of host name, user name should be displayed.
- * a connection should be established when double clicked on any node or leaf of the node.
- * when chat window is minimized and when there is a new message chat window should request attention.
- * when not minimized as well it should request attention.
- * when one person closes the chat window it have to display the message that the other person closed the connection.
+ 
  
  
  * see when one person closed the window and the other tried to chat the window is getting displayed again.
